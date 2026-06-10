@@ -30,12 +30,6 @@ https://codeberg.org/nerdbyteio/fossbilling-cyberpanel/wiki/Installation-%26-Con
 
 ---
 
-## ⭐ Star History
-
-[![Star History](https://api.star-history.com/svg?repos=NerdbyteIO/FossBilling-CyberPanel&type=Date)](https://star-history.com/#NerdbyteIO/FossBilling-CyberPanel&Date)
-
----
-
 ## ☕ Support
 
-https://www.buymeacoffee.com/jsonkenyon
+https://buymeacoffee.com/devjsonio
