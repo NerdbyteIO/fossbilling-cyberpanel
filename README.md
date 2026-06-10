@@ -26,7 +26,7 @@ If viewing on GitHub:
 ## 📥 Installation
 
 See wiki:
-https://github.com/NerdbyteIO/FOSSBilling-CyberPanel/wiki/Installation-Guide
+https://codeberg.org/nerdbyteio/fossbilling-cyberpanel/wiki/Installation-%26-Configuration
 
 ---
 
